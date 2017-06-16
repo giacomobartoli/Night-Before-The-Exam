@@ -3,4 +3,5 @@
   **/
 object Main extends App{
    new View
+   println("ciao Sam");
 }
