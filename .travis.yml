@@ -1,2 +1,2 @@
 language: scala
-scala: 2.11.2
+scala: 2.12.1
