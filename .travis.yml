@@ -1,3 +1,2 @@
 language: scala
 scala: 2.11.2
-script: ant build
